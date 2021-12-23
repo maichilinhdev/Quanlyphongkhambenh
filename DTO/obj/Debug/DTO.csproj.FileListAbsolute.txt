@@ -1,0 +1,39 @@
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DTO\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DTO\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DTO\obj\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DTO\obj\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DTO\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DTO\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DTO\obj\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DTO\obj\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DTO\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DTO\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DTO\obj\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DTO\obj\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DTO\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DTO\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DTO\obj\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DTO\obj\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DTO\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DTO\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DTO\obj\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DTO\obj\Debug\DTO.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DTO\bin\Debug\DTO.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DTO\bin\Debug\DTO.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DTO\obj\Debug\DTO.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DTO\obj\Debug\DTO.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DTO\bin\Debug\DTO.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DTO\bin\Debug\DTO.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DTO\obj\Debug\DTO.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DTO\obj\Debug\DTO.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DTO\bin\Debug\DTO.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DTO\bin\Debug\DTO.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DTO\obj\Debug\DTO.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DTO\obj\Debug\DTO.pdb

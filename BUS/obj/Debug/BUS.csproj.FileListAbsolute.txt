@@ -1,0 +1,100 @@
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\BUS\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\BUS\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\BUS\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\BUS\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\BUS\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\BUS\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\BUS\obj\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\BUS\obj\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\BUS\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\BUS\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\BUS\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\BUS\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\BUS\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\BUS\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\BUS\obj\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\BUS\obj\Debug\BUS.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\bin\Debug\BUS.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\bin\Debug\BUS.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\bin\Debug\DAL.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\bin\Debug\DTO.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\bin\Debug\DAL.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\bin\Debug\DTO.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\obj\Debug\BUS.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\BUS\obj\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\BUS\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\BUS\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\BUS\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\BUS\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\BUS\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\BUS\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\BUS\obj\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\BUS\obj\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\BUS\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\BUS\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\BUS\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\BUS\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\BUS\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\BUS\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\BUS\obj\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\BUS\obj\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\BUS\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\BUS\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\BUS\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\BUS\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\BUS\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\BUS\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\BUS\obj\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\BUS\obj\Debug\BUS.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\bin\Debug\BUS.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\bin\Debug\BUS.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\bin\Debug\DAL.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\bin\Debug\DTO.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\bin\Debug\DAL.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\bin\Debug\DTO.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\obj\Debug\BUS.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\BUS\obj\Debug\BUS.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\BUS.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\BUS.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\DAL.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\DTO.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\DAL.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\DTO.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\BUS.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\BUS.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\DAL.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\DTO.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\DAL.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\bin\Debug\DTO.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\BUS\obj\Debug\BUS.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\bin\Debug\BUS.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\bin\Debug\BUS.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\bin\Debug\DAL.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\bin\Debug\DTO.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\bin\Debug\DAL.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\bin\Debug\DTO.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\obj\Debug\BUS.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\BUS\obj\Debug\BUS.pdb

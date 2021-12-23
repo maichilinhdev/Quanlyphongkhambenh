@@ -1,0 +1,78 @@
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DAL\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DAL\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DAL\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DAL\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DAL\obj\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\DAL\obj\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DAL\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DAL\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DAL\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DAL\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DAL\obj\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\DAL\obj\Debug\DAL.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\DAL\bin\Debug\DAL.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\DAL\bin\Debug\DAL.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\DAL\bin\Debug\DTO.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\DAL\bin\Debug\DTO.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\DAL\obj\Debug\DAL.csproj.CopyComplete
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\DAL\obj\Debug\DAL.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\DAL\obj\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DAL\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DAL\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DAL\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DAL\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DAL\obj\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\DAL\obj\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\XONG\QLPMT\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DAL\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DAL\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DAL\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DAL\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DAL\obj\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\DAL\obj\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DAL\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DAL\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DAL\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DAL\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DAL\obj\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\DAL\obj\Debug\DAL.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DAL\bin\Debug\DAL.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DAL\bin\Debug\DAL.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DAL\bin\Debug\DTO.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DAL\bin\Debug\DTO.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DAL\obj\Debug\DAL.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\DAL\obj\Debug\DAL.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DAL\bin\Debug\DAL.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DAL\bin\Debug\DAL.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DAL\bin\Debug\DTO.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DAL\bin\Debug\DTO.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DAL\obj\Debug\DAL.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\DAL\obj\Debug\DAL.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DAL\bin\Debug\DAL.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DAL\bin\Debug\DAL.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DAL\bin\Debug\DTO.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DAL\bin\Debug\DTO.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DAL\obj\Debug\DAL.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\DAL\obj\Debug\DAL.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\DAL\bin\Debug\DAL.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\DAL\bin\Debug\DAL.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\DAL\bin\Debug\DTO.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\DAL\bin\Debug\DTO.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HDT\EndGame\New\Source Code\QLPMT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HDT\EndGame\New\Source Code\QLPMT\DAL\obj\Debug\DAL.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\DAL\obj\Debug\DAL.pdb

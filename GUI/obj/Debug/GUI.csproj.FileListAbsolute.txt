@@ -1,0 +1,349 @@
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\bin\Debug\GUI.exe.config
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.frmTestBenhNhan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\bin\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\bin\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\1_Start\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\bin\Debug\GUI.exe.config
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\bin\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\bin\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fLapPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhanVaoDanhSachKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fThemThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fThemTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fXoaTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fChiTietPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fTraCuuHoaDon.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fBaoCaoDoanhThu.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fThongKeSuDungThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fQuanLyThamSo.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fQuanLyBenh.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fDonViThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fQuanLyCachDung.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Coding\Next\QLPMT\GUI\obj\Debug\GUI.fThongTinTaiKhoan.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\bin\Debug\GUI.exe.config
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\bin\Debug\GUI.exe
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\bin\Debug\GUI.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\bin\Debug\BUS.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\bin\Debug\DAL.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\bin\Debug\DTO.dll
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\bin\Debug\BUS.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\bin\Debug\DAL.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\bin\Debug\DTO.pdb
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fBaoCaoDoanhThu.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fChiTietPhieuKham.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fDonViThuoc.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fLapPhieuKham.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fQuanLyBenh.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fQuanLyCachDung.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fQuanLyThamSo.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fThongTinTaiKhoan.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhanVaoDanhSachKham.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fThemTaiKhoan.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fThemThuoc.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fThongKeSuDungThuoc.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fTraCuuHoaDon.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachPhieuKham.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachTaiKhoan.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.fXoaTaiKhoan.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.csproj.CopyComplete
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.exe
+W:\Users\KhunG LonG\Desktop\MachTU\Next\QLPMT\GUI\obj\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\bin\Debug\GUI.exe.config
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\bin\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\bin\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fBaoCaoDoanhThu.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fChiTietPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fDonViThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fLapPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fQuanLyBenh.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fQuanLyCachDung.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fQuanLyThamSo.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fThongTinTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhanVaoDanhSachKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fThemTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fThemThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fThongKeSuDungThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fTraCuuHoaDon.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.fXoaTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\HocTap\HK4\NMCNPM\DoAn\Xong\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\bin\Debug\GUI.exe.config
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\bin\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\bin\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fBaoCaoDoanhThu.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fChiTietPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fDonViThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fLapPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fQuanLyBenh.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fQuanLyCachDung.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fQuanLyThamSo.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fThongTinTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhanVaoDanhSachKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fThemTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fThemThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fThongKeSuDungThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fTraCuuHoaDon.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.fXoaTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\bin\Debug\GUI.exe.config
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\bin\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\bin\Debug\GUI.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\bin\Debug\BUS.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\bin\Debug\DAL.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\bin\Debug\DTO.dll
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\bin\Debug\BUS.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\bin\Debug\DAL.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\bin\Debug\DTO.pdb
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fBaoCaoDoanhThu.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fChiTietPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fDonViThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fLapPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fQuanLyBenh.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fQuanLyCachDung.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fQuanLyThamSo.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fThongTinTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhanVaoDanhSachKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fThemTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fThemThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fThongKeSuDungThuoc.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fTraCuuHoaDon.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachPhieuKham.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.fXoaTaiKhoan.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\17521013_17521039_17521218_17520709\SourceCode\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\SourceCodeNopDriver\SourceCode\QLPMT\GUI\bin\Debug\GUI.exe.config
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\SourceCodeNopDriver\SourceCode\QLPMT\GUI\obj\Debug\GUI.exe
+E:\HocTap\HK4\NMCNPM\DoAn\NopDoAn\SourceCodeNopDriver\SourceCode\QLPMT\GUI\obj\Debug\GUI.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\bin\Debug\GUI.exe.config
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\bin\Debug\GUI.exe
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\bin\Debug\GUI.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\bin\Debug\BUS.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\bin\Debug\DAL.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\bin\Debug\DTO.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\bin\Debug\BUS.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\bin\Debug\DAL.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\bin\Debug\DTO.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fBaoCaoDoanhThu.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fChiTietPhieuKham.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fDonViThuoc.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fLapPhieuKham.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fQuanLyBenh.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fQuanLyCachDung.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fQuanLyThamSo.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fThongTinTaiKhoan.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhanVaoDanhSachKham.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fThemTaiKhoan.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fThemThuoc.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fThongKeSuDungThuoc.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fTraCuuHoaDon.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachPhieuKham.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachTaiKhoan.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fXoaTaiKhoan.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.exe
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.pdb
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\Interop.AtlActiveXLib.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\tsphl\Downloads\CMM\other\NMCNPM-QLPMT-TTTL-master\QLPMT\GUI\obj\Debug\GUI.fHdsd.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\GUI.exe.config
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\GUI.exe
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\GUI.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\BUS.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\DAL.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\DTO.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\BUS.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\DAL.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\DTO.pdb
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fBaoCaoDoanhThu.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fChiTietPhieuKham.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fHdsd.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fDonViThuoc.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fLapPhieuKham.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fQuanLyBenh.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fQuanLyCachDung.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fQuanLyThamSo.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThongTinTaiKhoan.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhanVaoDanhSachKham.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemTaiKhoan.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemThuoc.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThongKeSuDungThuoc.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fTraCuuHoaDon.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachPhieuKham.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachTaiKhoan.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fXoaTaiKhoan.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.exe
+D:\HDT\EndGame\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\GUI.exe.config
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\GUI.exe
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\GUI.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\BUS.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\DAL.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\DTO.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\BUS.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\DAL.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\bin\Debug\DTO.pdb
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fBaoCaoDoanhThu.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fChiTietPhieuKham.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fHdsd.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fDonViThuoc.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fLapPhieuKham.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fQuanLyBenh.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fQuanLyCachDung.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fQuanLyThamSo.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThongTinTaiKhoan.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhanVaoDanhSachKham.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemTaiKhoan.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemThuoc.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fThongKeSuDungThuoc.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fTraCuuHoaDon.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachPhieuKham.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachTaiKhoan.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.fXoaTaiKhoan.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.exe
+D:\BAITAPHK1\PHATTRIENPMHDT-COHUONG\SRC_QLPMT 2\Source Code\QLPMT\GUI\obj\Debug\GUI.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\bin\Debug\GUI.exe.config
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\bin\Debug\GUI.exe
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\bin\Debug\GUI.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\bin\Debug\BUS.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\bin\Debug\DAL.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\bin\Debug\DTO.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\bin\Debug\BUS.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\bin\Debug\DAL.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\bin\Debug\DTO.pdb
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fBaoCaoDoanhThu.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fChiTietPhieuKham.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fHdsd.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fDonViThuoc.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fLapPhieuKham.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fLogin.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fMainForm.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fPhanQuyen.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fQuanLyBenh.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fQuanLyCachDung.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fQuanLyThamSo.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fThongTinTaiKhoan.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhan.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemBenhNhanVaoDanhSachKham.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemTaiKhoan.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fThemThuoc.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fThongKeSuDungThuoc.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fTraCuuHoaDon.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachPhieuKham.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fXemDanhSachTaiKhoan.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.fXoaTaiKhoan.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.exe
+D:\HDT\EndGame\New\Source Code\QLPMT\GUI\obj\Debug\GUI.pdb
